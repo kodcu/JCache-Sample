@@ -1,0 +1,5 @@
+== JSR 107 - JCache (Java Temporary Caching API) Sample Code
+
+Created by Rahman Usta
+
+You can read details in blog post http://kodcu.com/2014/09/jsr-107-jcache…ry-caching-api/[JSR 107 - JCache Standardına İlk Bakış]
